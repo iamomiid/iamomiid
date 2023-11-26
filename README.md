@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Omid Sayfun. I'm a software engineer, AI enthusiast, writer, and creator based in the Netherlands.
+
 <!--
 **iamomiid/iamomiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
